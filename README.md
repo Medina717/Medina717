@@ -9,7 +9,7 @@
 ✍️ &nbsp;En mi tiempo libre disfruto caminar, beber un buen cafe y leer armoniza el tiempo mientras los pensamientos divagan.\
 💬 &nbsp;Dialogar. ¡por que no!.\
 ✉️ &nbsp;You can shoot me an email at jmedina717@hotmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](www.linkedin.com/in/jose-medina-jmedina) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]([www.linkedin.com/in/jose-medina-jmedina](https://1drv.ms/b/s!Apkg5skzCReTi4JpHvAXNROstTrqEw?e=WLRAiR)) for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
