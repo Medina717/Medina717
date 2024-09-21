@@ -1,7 +1,14 @@
-<pag alinear="centro">
-  <img origen= "https://github.com/Medina717/Medina717/blob/main/Portada%20.png" ancho="100%">
-</pag>
-## Hi,  there 👋
+<div align="center">
+  <img src="https://github.com/Medina717/Medina717/blob/main/Portada%20.png" width="100%">
+</div>
+
+## Hi, <p align="center"> Ingeniero Industrial | Anilisis y cientifico de Datos 👋
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Bussines%20Intelligence-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-English" />
+  </div>
+  
 
 ### 👨🏻‍💻 &nbsp;About Me
 
