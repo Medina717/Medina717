@@ -1,4 +1,6 @@
-<img origen= "https://github.com/Medina717/Medina717/blob/main/Portada%20.png" ancho="100%">
+<pag alinear="centro">
+  <img origen= "https://github.com/Medina717/Medina717/blob/main/Portada%20.png" ancho="100%">
+</pag>
 ## Hi,  there 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
