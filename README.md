@@ -5,12 +5,11 @@
 
 **Ingeniero Industrial | Anilisista y cientifico de Datos 👋**
 
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Bussines%20Intelligence-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-English" />
-  </div>
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-%23FFBF00" />
+<img src="https://img.shields.io/badge/Focus-Business%20Intelligence-%23FFBF00" />
+<img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-%23FFBF00" />
+</div>
   
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -22,7 +21,7 @@
 ✍️ &nbsp;En mi tiempo libre disfruto caminar, beber un buen cafe y leer armoniza el tiempo mientras los pensamientos divagan.\
 💬 &nbsp;Dialogar. ¡por que no!.\
 ✉️ &nbsp;You can shoot me an email at jmedina717@hotmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Dato curioso, despues de aprender algo, lo cuestiono, luego se almacena y cuando por fin lo aplico lo celebro como un gol al minuto 90.\
+📄 &nbsp;Dato curioso, despues de aprender algo, lo cuestiono, luego se almacena y cuando por fin lo aplico lo celebro como un gol al minuto 90.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +43,11 @@
 <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+**Extras:**
+
+![Terminal](https://img.shields.io/badge/Terminal-%230A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%2350C878.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 ### 🐍 &nbsp;That's How Commits move ...
 
-<div ali
+
